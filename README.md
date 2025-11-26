@@ -2,6 +2,8 @@
 
 A comprehensive example application demonstrating the features and capabilities of TanStack Start, a type-safe, client-first, full-stack React framework.
 
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/94ed6bdc-16d4-41d1-99bf-230d86b46294" />
+
 [Full Video Tutorial From YouTube](https://youtu.be/WYbZlIf9_Ok?si=jBtwOK1jWvS-ESZA)
 
 ## 🚀 Overview
